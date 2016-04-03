@@ -1,0 +1,4 @@
+Camada de Aplicacao 127.0.0.1 59001
+Camada de Transporte 127.0.0.1 59002
+Sockets 127.0.0.1 59003
+Geral 127.0.0.1 59004
